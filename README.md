@@ -1,7 +1,7 @@
 
 # OLA Data Analysis
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/ab1de168-3e1a-40a0-ae90-0bcb4bbb291c/ec94fb8fe765e8280970?experience=power-bi
+### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiMDUxMmY3ZWYtMjQ0NC00MDkyLWI4ZjctMmU2ZGVkYzBmNjc5IiwidCI6ImJhZDEyODY0LTkxM2UtNGI5OS04N2Q2LWI4ZDJhZDQ1OWUyNyIsImMiOjEwfQ%3D%3D
 
 ## Problem Statement
 
